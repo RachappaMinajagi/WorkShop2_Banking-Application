@@ -1,1 +1,1 @@
-# worksshop2_Banking-Application
+# WorkShop2_Banking-Application
