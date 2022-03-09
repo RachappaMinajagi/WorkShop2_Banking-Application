@@ -24,7 +24,7 @@ public class Main {
 		 * / SavingAccount.annuallInterestRate = 5 %;
 		 */
 
-		SavingAccount.modifyInterestRate(5);
+		SavingAccount.modifyInterestRate(5); 
 		saver1.calculateMonthlyInterest();
 		saver2.calculateMonthlyInterest();
 		saver1.displaySavings();
